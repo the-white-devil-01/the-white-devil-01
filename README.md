@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @the-white-devil-01
 - 👀 I’m interested in hacking 
-- 🌱 I’m currently learning HTML c++ Python etc.
+- 🌱 I’m currently learning HTML CSC and JavaScript
 - 💞️ I’m looking to collaborate on hacking tools 
-- 📫 How to reach me https://www.Facebook.com/shuaibmohammadyasin100
+- 📫 How to reach me https://www.Facebook.com/Shuaibmohammadyasin100
 
 
 <!---
